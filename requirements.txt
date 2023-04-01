@@ -1,0 +1,9 @@
+python-Wappalyzer
+argparse
+beautifulsoup4
+mechanize
+requests
+progress
+dnspython
+shodan
+nmap
